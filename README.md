@@ -6,4 +6,4 @@ Compétences dévelopées:
 Utiliser des modèles pré entrainéset manipuler des API's IA
 
 --> Maitrise des services IA existants 
-(pré-LLM, exploitation API, environnement Python)
+(pré-LLM, exploitation API, environnement Python)# Projet-2-Requetez-des-services-IA
