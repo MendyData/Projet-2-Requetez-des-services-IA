@@ -1,0 +1,10 @@
+# Environnements virtuels
+.venv/
+venv/
+
+# Fichiers de configuration sensibles
+.env
+.env/
+
+# Cache Python
+__pycache__/
